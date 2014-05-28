@@ -66,7 +66,7 @@ public class NumbPad {
 		}
 		// Inflate the dialog layout
 		LayoutInflater inflater = a.getLayoutInflater();
-		View iView = inflater.inflate(R.layout.solo_game, null, false);
+		View iView = inflater.inflate(R.layout.tetris, null, false);
 		
 		// create code to handle the change tender
 		//prompt = (TextView) iView.findViewById(R.id.promptText);
