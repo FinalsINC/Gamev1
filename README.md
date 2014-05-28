@@ -1,2 +1,4 @@
-Gamev1
+tetris
 ======
+
+Tetris game for Android
